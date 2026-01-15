@@ -18,7 +18,7 @@
     "react-leaflet": "^3.2.0",
     "react-loader-spinner": "^4.0.0",
     "react-responsive-carousel": "^3.2.20",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^0.0.0",
     "react-vertical-timeline-component": "^3.3.3",
     "web-vitals": "^1.0.1"
   },
@@ -38,5 +38,8 @@
     ">0.2%",
     "not dead",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
